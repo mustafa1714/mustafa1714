@@ -47,6 +47,9 @@ while(coding) {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 
+![frontend_basics](https://img.shields.io/badge/-%F0%9F%92%8E%20Backend%20Expert-blue)
+![semicolon](https://img.shields.io/badge/-%3A-below)
+
 ```php
 // My Development Stack
 class TechStack {
