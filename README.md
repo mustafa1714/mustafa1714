@@ -26,6 +26,8 @@ while(coding) {
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Moustafa-Soltan&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-Contact_Me_(PGP_Enabled)-D14836?logo=gmail)](mailto:mustafa.dev1714@gmail.com?subject=GitHub%20Contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustafa_Soltan-0077B5?logo=linkedin)](https://linkedin.com/in/mustafa-sultan-web-dev)
 </div>
 
 <hr></hr>
@@ -50,8 +52,14 @@ while(coding) {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-2A2A2A?logo=thunder-client&logoColor=FFD43B)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?logo=phpstorm&logoColor=white)
 
 ```php
 // My Development Stack
@@ -79,5 +87,10 @@ class TechStack {
 | **Student Support Association**     | Laravel, MySQL               | Freelance (Remote) | Cut infra costs by $500+/year; built secure admin/student portals. |
 | **Research Publisher CMS**          | Laravel, MySQL, Linux        | Freelance (Remote) | Delivered CMS in 6 weeks; optimized databases and secure file access. |
 
+
+### 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me_(PGP_Enabled)-D14836?logo=gmail)](mailto:mustafa.dev1714@gmail.com?subject=GitHub%20Contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustafa_Soltan-0077B5?logo=linkedin)](https://linkedin.com/in/mustafa-sultan-web-dev)
 
 
