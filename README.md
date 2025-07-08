@@ -1,8 +1,9 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/mustafa1714
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif?raw=true" href="https://github.com/mustafa1714
 " alt="Hello World" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mustafa1714
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" href="https://github.com/mustafa1714
 " alt="Workspace" width="40%"/><br>
 
 <details>
@@ -10,9 +11,9 @@
 
 ```bash
 # My Daily Coding Toolkit
-OS: Windows 10
-Editor: VS Code, PHP Storm
-Terminal: Git, Windows CMD & PowerShell
+OS: Windows 10, Linux (Ubuntu, Kali)
+Editor: VSCode, PHPStorm
+Terminal: Git, Windows CMD & PowerShell, Terminal
 Theme: Dark
 ```
 ```php
