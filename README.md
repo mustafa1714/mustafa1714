@@ -89,11 +89,11 @@ class TechStack {
 | **Research Publisher CMS**          | Laravel, MySQL, Linux        | Freelance (Remote) | Delivered CMS in 6 weeks; optimized databases and secure file access. |
 
 
+### 📊 Stats
 ![Moustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa1714&show_icons=true&theme=radical&rank_icon=github&hide=rps,contribs,stars,prs&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa1714&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ### 📬 Contact
-
 [![Email](https://img.shields.io/badge/Email-Contact_Me_(PGP_Enabled)-D14836?logo=gmail)](mailto:mustafa.dev1714@gmail.com?subject=GitHub%20Contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustafa_Soltan-0077B5?logo=linkedin)](https://linkedin.com/in/mustafa-sultan-web-dev)
 
