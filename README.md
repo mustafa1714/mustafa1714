@@ -88,7 +88,8 @@ class TechStack {
 | **Student Support Association**     | Laravel, MySQL               | Freelance (Remote) | Cut infra costs by $500+/year; built secure admin/student portals. |
 | **Research Publisher CMS**          | Laravel, MySQL, Linux        | Freelance (Remote) | Delivered CMS in 6 weeks; optimized databases and secure file access. |
 
-![Moustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa1714&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&&hide=stars,prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa1714&show_icons=true&theme=radical&rank_icon=github&hide=rps,contribs,stars,prs&include_all_commits=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa1714&layout=compact&hide_progress=true&theme=radical&size_weight=0.5&count_weight=0.5)
 
 ### 📬 Contact
 
