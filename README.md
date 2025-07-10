@@ -92,8 +92,8 @@ class TechStack {
 
 ### 📊 Stats
 ![Moustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa1714&show_icons=true&theme=radical&rank_icon=github&hide=rps,contribs,stars,prs&include_all_commits=true&nocache=<?=time()?> )
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moustafa_Soltan&theme=radical&layout=compact)](https://github.com/mustafa1714/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa1714&theme=radical&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)
+[![Moustafa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muostafa_Soltan&theme=radical&layout=compact)](https://github.com/mustafa1714/github-readme-stats)
 
 ### 📬 Contact
 [![Email](https://img.shields.io/badge/Email-Contact_Me_(PGP_Enabled)-D14836?logo=gmail)](mailto:mustafa.dev1714@gmail.com?subject=GitHub%20Contact)
